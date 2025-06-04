@@ -1,5 +1,5 @@
 # Python LLM–VLLM AI COURSE  
-**by edujbarrios.com**  
+**by https://edujbarrios.com**  
 _A project-based curriculum to understand and replicate the architecture of Large Language Models (LLMs) and Visual Language Models (VLLMs) from scratch._
 
 ---
