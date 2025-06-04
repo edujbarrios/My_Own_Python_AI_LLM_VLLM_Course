@@ -1,0 +1,4 @@
+Artificial Intelligence enables machines to learn from data and make decisions.
+In natural language processing, tokenization and embeddings allow models to understand context.
+Word embeddings are dense representations of words in a continuous vector space.
+They are the foundation for neural models that work with language, such as translation, summarization, and question answering.

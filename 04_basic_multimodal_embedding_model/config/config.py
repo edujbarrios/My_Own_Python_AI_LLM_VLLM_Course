@@ -1,0 +1,9 @@
+TEXT_PATH = "data/caption.txt"
+IMAGE_PATH = "data/world-globe.jpg"
+
+RESIZE_TO = (128, 128)
+PATCH_SIZE = 16
+TEXT_EMBED_DIM = 64
+IMG_EMBED_DIM = 64
+SEED = 42
+SIMILARITY_THRESHOLD = 0.85
